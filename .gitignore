@@ -1,6 +1,8 @@
 #idea file
 .idea
 
+.vscode
+
 # develop temp folder.
 tmp
 
@@ -8,3 +10,4 @@ tmp
 tank
 tank.exe
 
+log
